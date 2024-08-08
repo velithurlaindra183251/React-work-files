@@ -1,0 +1,21 @@
+.one{
+    width: 1000px;
+    height: 200px;
+}
+.two{
+    width: 300px;
+    height: 400px;
+    background-color: red;
+    float: left;
+}
+.three{
+    width: 700px;
+    height: 400px;
+    background-color: yellow;
+    float: left;
+}
+.container{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}

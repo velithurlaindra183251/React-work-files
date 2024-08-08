@@ -1,0 +1,12 @@
+img{
+  width:200px;
+  transition: all 3s;
+  background-color: white;
+}
+.button{
+  background-color: aqua;
+  color: rgb(230, 16, 16);
+}
+ .button.hover{
+  background-color: chartreuse;
+ }

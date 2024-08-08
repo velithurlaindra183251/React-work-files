@@ -1,0 +1,57 @@
+.ve{
+    color: rgb(251, 13, 200);
+}
+
+#a {
+    color: red;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 100px;
+}
+
+
+
+#b {
+    color: rgb(10, 210, 10);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 100px;
+
+}
+
+#c {
+    color: rgb(44, 12, 225);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 100px;
+}
+
+#d {
+    color: rgb(233, 13, 108);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 100px;
+}
+
+.i {
+    color: brown;
+}
+
+.v {
+    color: aqua;
+}
+
+.vk {
+    color: blue;
+}
+
+.k {
+    color: rgb(241, 7, 230);
+}
+.in{
+    color: chartreuse;
+}
+
+.vi{
+    color: orange;
+}

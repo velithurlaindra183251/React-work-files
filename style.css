@@ -1,0 +1,78 @@
+.container {
+    width: 1000px;
+    height:auto;
+    margin: auto;
+    overflow: hidden;
+  }
+
+
+#image {
+    width: 100%;
+    height: auto;
+}
+
+#link {
+    background-color: rgb(4, 3, 3);
+    text-align: center;
+    padding: 20px;
+}
+
+
+a {
+    padding: 5%;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#tag {
+    background-color: rgb(164, 164, 237);
+    width: 30%;
+    height: 400px;
+    float: left;
+}
+
+#tag1 {
+    background-color: chocolate;
+    width: 70%;
+    height: 400px;
+    float: left;
+}
+
+#footer {
+    background-color: black;
+
+}
+
+#a {
+    color: rgb(206, 234, 243);
+    text-align: center;
+    padding: 15px;
+}
+
+#b {
+    padding-left: 20px;
+    color: rgb(225, 4, 4);
+    font-size: 40px;
+}
+
+p {
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+#c {
+    padding-left: 20px;
+    font-size: 40px;
+
+}
+
+li {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+i {
+    color: azure;
+}
